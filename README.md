@@ -1,3 +1,3 @@
 # hello-world
 My first repository on GitHub
-I love to geek out apparently 
+I love to geek out and party
